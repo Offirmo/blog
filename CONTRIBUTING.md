@@ -13,3 +13,8 @@
 
 ## Conception
 This repo is following this one https://github.com/Offirmo/hello-world-github-pages-jekyll
+
+
+## Features
+
+Using the redirecting technique from https://superdevresources.com/redirects-jekyll-github-pages/

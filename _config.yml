@@ -14,10 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Offirmo's technical blog
-email: offirmo.net@gmail.com
+#email: offirmo.net@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Offirmo's blog about tech. I don't like writing,
-  but I'm forcing myself to share back to the open source community
+  Through this site, I'm forcing my lazy self to share back to the open source community
   who brought me so much! Please have mercy on me!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,3 +31,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - tosort
