@@ -5,7 +5,7 @@ categories: typescript
 ---
 
 Presentation about [TypeScript](https://www.typescriptlang.org/index.html) given in November 2016 at the
-[Paris TypeScript Meetup](https://www.meetup.com/fr-FR/Paris-Typescript/) and aimed at beginners.
+[Paris TypeScript Meetup](https://www.meetup.com/fr-FR/Paris-Typescript/) and aimed at beginners:
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/aEBVgvFXMmOCGP"
 width="595" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
