@@ -11,6 +11,8 @@ To share on
 - dev's tricks
 - my own blog ?
 - jobprod
+- reddit (typescript, javascript)
+
 
 Site:
 * i18n
