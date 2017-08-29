@@ -1,4 +1,4 @@
-http://daily-javascript.com/articles/shebang/
+Note: this post was originally guest-posted on [daily-javascript.com](http://daily-javascript.com/articles/shebang/)
 
 # Run Javascript in shell: The ultimate shebang collection
 
