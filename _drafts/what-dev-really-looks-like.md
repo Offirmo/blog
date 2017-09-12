@@ -1,0 +1,3 @@
+- feasability
+- tech|API discovery
+- 
