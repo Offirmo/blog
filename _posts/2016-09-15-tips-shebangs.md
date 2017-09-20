@@ -1,10 +1,13 @@
-Note: this post was originally guest-posted on [daily-javascript.com](http://daily-javascript.com/articles/shebang/)
+---
+title: "Run JavaScript in shell: The ultimate shebang collection"
+categories: JavaScript
+---
 
-# Run Javascript in shell: The ultimate shebang collection
+*Note: this post was originally guest-posted on [daily-javascript.com](http://daily-javascript.com/articles/shebang/)*
 
 Today, let's try the tip format. Don't worry, we'll introduce some nice modules along the way.
  
-Thanks to node, Javascript conquered new realms, including the terminal.
+Thanks to node, JavaScript conquered new realms, including the terminal.
 To integrate with other tools, or just for convenience, you may want to run your JS code as a shell script.
 This is done with a [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix)), of course.
 [Sam Mikes](http://sambal.org/2014/02/passing-options-node-shebang-line/) cleverly devised a shebang that allows running a node script as a shell script:

@@ -1,7 +1,6 @@
 ---
-title:  "Power Leveling your TypeScript"
-date:   2016-11-24
-categories: typescript
+title: "Power Leveling your TypeScript"
+categories: TypeScript
 ---
 
 Presentation about [TypeScript](https://www.typescriptlang.org/index.html) given in November 2016 at the

@@ -1,4 +1,9 @@
-Note: this post was originally guest-posted on [daily-javascript.com](http://daily-javascript.com/articles/sindre-sudo/)
+---
+title: "3 modules to check, enforce or prevent running in sudo mode"
+categories: JavaScript
+---
+
+*Note: this post was originally guest-posted on [daily-javascript.com](http://daily-javascript.com/articles/sindre-sudo/)*
 
 # 3 modules to check, enforce or prevent running in sudo mode
 
@@ -9,7 +14,7 @@ Sindre Sorhus gets us covered with 3 complementary modules about running an app 
 
 As you know, Unix programs can be run with ["root privileges"](https://en.wikipedia.org/wiki/Superuser#Unix_and_Unix-like) usually by starting them with [`sudo`](https://en.wikipedia.org/wiki/Sudo). The "root" user has all permissions, which is an important security concern.
 
-When writing a CLI app in javascript, you may want to check if your app is run with root privileges with the 1st module `is-root`:
+When writing a CLI app in JavaScript, you may want to check if your app is run with root privileges with the 1st module `is-root`:
 
 ```js
 const isRoot = require('is-root')
