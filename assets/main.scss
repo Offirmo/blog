@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+	color: #333;
+	background-color: #FCFCFC;
+}
+
+ul.post-list > li,
+ul.post-list > li > h2 {
+	margin-bottom: 0;
+}
