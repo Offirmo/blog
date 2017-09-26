@@ -22,7 +22,7 @@ Firefox (latest) https://www.mozilla.org/en-US/firefox/desktop/
     Any version https://ftp.mozilla.org/pub/firefox/releases/
 
 	(coche)	(coche)	(coche)	See "Launching multiple versions of Firefox using profiles" notes for using multiples versions at the same time
-Edge latest	official vm	official vm	(coche)
+Edge latest	official vm	official vm	(coche) https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 native
 IE11	official vm	official vm	(coche)
 native	IE 11 is the latest IE and is still installed on recent Windows OS

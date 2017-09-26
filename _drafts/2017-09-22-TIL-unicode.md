@@ -1,5 +1,5 @@
 ---
-title: "Today I Learnt stuff about unicode 👨🏻‍💼"
+title: "Today I Learnt Unicode 👨🏻‍💼"
 categories: programming
 ---
 
@@ -21,6 +21,7 @@ Let's start with a demo of what we can do with unicode: (may render properly or 
 ║ ✓ ║ Done      ║
 ╙───╨───────────╜
 ```
+(see https://github.com/sindresorhus/boxen)
 
 * Arrows, symbols:
 

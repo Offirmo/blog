@@ -41,3 +41,6 @@ UI = emojis !
 
 rewrites = good !!!
 types = good
+
+
+https://elsyms.com/the-art-of-over-engineering-your-side-projects/
