@@ -65,7 +65,7 @@ Unicode [11.0](http://emojipedia.org/unicode-11.0/) is due for release in mid-20
 
 See also:
 * [www.unicode.org](http://www.unicode.org/)
-
+* [unicode-search.net](https://unicode-search.net/)
 
 ## Emoji versions
 

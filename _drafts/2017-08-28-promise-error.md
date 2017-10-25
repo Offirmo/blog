@@ -25,3 +25,11 @@ function ensureAuthenticatedToHamlet() {
                     }
                 })
             },
+
+
+nearly missed:
+Promise.resolve()
+.then(() => foo())
+
+to Promise.resolve(foo())
+
