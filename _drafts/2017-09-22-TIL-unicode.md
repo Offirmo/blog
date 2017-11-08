@@ -3,6 +3,12 @@ title: "Today I Learnt Unicode 👨🏻‍💼"
 categories: programming
 ---
 
+
+https://twitter.github.io/twemoji/
+https://www.emojione.com/apps/emoji-browser-extension
+https://www.emojicopy.com/
+
+
 Unicode is great! It's one of the fun domain of computing. But if you start diving in, it has many mechanism that you should be aware off.
 I'm using JavaScript / TypeScript, but this article should be interesting for any developer
 
