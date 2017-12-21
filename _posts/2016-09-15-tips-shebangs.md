@@ -5,6 +5,9 @@ categories: JavaScript
 
 *Note: this post was originally guest-posted on [daily-javascript.com](http://daily-javascript.com/articles/shebang/)*
 
+*Note: Updated on 2017/12/21 with latest babel usage*
+
+
 Today, let's try the tip format. Don't worry, we'll introduce some nice modules along the way.
  
 Thanks to node, JavaScript conquered new realms, including the terminal.
@@ -54,8 +57,8 @@ It works! Same behaviour as running `node index.js Joe Jack`.
 Let's do better: how about running pure ES6 code using ES6 modules ? The [`babel-node`](https://babeljs.io/docs/usage/cli/) executable, exposed by the [`babel-cli`](https://www.npmjs.com/package/babel-cli) npm module and a trivial bit of config allows that:
 
 ```
-npm i --save  babel-cli  babel-preset-es2015-node6
-echo '{ "presets": ["es2015-node6"] }' > .babelrc
+npm i --save  babel-cli  babel-preset-env
+echo '{ "presets": ["env"] }' > .babelrc
 touch index_es6.js; chmod +x index_es6.js
 ```
 
