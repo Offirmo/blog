@@ -8,7 +8,18 @@ body {
 	background-color: #FCFCFC;
 }
 
-ul.post-list > li,
+ul.post-list > li {
+	margin-bottom: 0;
+}
+
+ul.post-list > li > .post-meta {
+	display: none;
+}
+ul.post-list > li > .post-link {
+	font-size: 18px;
+}
+
 ul.post-list > li > h2 {
 	margin-bottom: 0;
+	display: inline-block;
 }

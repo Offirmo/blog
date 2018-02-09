@@ -1,4 +1,7 @@
-
+---
+title: "How to reset your JS environment"
+categories: programming
+---
 
 ```bash
 npm cache clean

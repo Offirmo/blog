@@ -12,8 +12,9 @@
 
 
 ## Conception
-This repo is following this one https://github.com/Offirmo/hello-world-github-pages-jekyll
-
+* This repo is following this one https://github.com/Offirmo/hello-world-github-pages-jekyll
+* used theme: https://github.com/jekyll/minima
+  * live demo https://jekyll.github.io/minima/
 
 ## Features
 
