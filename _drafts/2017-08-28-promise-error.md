@@ -33,3 +33,16 @@ Promise.resolve()
 
 to Promise.resolve(foo())
 
+
+
+const contacts = new Promise((resolve, reject) => {
+                if (!state.loggedIn) return resolve([]);
+
+                const { search } = data;
+                resolve(fetchGoogleContacts({ gapi, search }).then(
+                  googleResponse => {
+                    logger.log('gresp', googleResponse);
+                    return [];
+                  },
+                ));
+              })
