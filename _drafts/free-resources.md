@@ -1,4 +1,5 @@
 
+http://p.agnihotry.com/post/the_free_stack_aws/
 
 * GitHub pages!
 * GraphCms
@@ -22,3 +23,9 @@ https://zeit.co/oss
 
 
 https://glitch.com/faq#restrictions
+
+https://ponyfoo.com/articles/low-budget-hosting-tips
+
+
+https://www.statuscake.com/pricing/
+
