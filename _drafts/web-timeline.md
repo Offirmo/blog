@@ -1,10 +1,15 @@
 
+https://dev.to/stereobooster/thats-one-small-step-for-a-developer-one-giant-leap-for-the-web-4b28
 
 http://home.cern/topics/birth-web
 
 http://info.cern.ch/
 
 https://stackingthebricks.com/how-blogs-broke-the-web/
+
+jQuery
+
+Chrome browser
 
 AngularJS
 https://medium.com/javascript-scene/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c
@@ -43,3 +48,12 @@ www.blueskyonmars.com/2009/01/29/what-server-side-javascript-needs/
 GMail
 
 PHP
+
+https://v8.dev/blog/10-years
+
+10 years Stack overflow https://www.youtube.com/watch?v=QwS1r1mc888
+
+
+Old stuff: https://anybrowser.org/
+
+https://www.cameronsworld.net/

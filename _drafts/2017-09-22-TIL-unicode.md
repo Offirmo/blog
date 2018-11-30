@@ -177,7 +177,7 @@ https://en.wikipedia.org/wiki/Variant_form_(Unicode)
 
 ### useful modules
 From [Mathias Bynens](https://github.com/mathiasbynens)
-* npm/[unicode-10.0.0]()https://github.com/mathiasbynens/unicode-10.0.0)
+* npm/[unicode-10.0.0](https://github.com/mathiasbynens/unicode-10.0.0)
 * https://github.com/mathiasbynens/emoji-regex
 * https://github.com/mathiasbynens/node-unicode-data
 * https://github.com/mathiasbynens/utf8.js
@@ -199,3 +199,9 @@ Other
 https://github.com/timoxley/wcwidth/blob/master/docs/index.md
 
 
+
+https://mathiasbynens.be/notes/javascript-unicode
+Escape sequences
+char \x41
+unicode basic plane \uABCD
+unicode astral plane \u{1F4A9}
