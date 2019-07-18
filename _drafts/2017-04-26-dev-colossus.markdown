@@ -5,6 +5,9 @@ categories: programming
 ---
 
 
+https://waitbutwhy.com/2017/04/neuralink.html
+
+
 * Lepton https://github.com/hackjutsu/Lepton
 * Wiki
 * Quick test repo
