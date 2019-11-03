@@ -1,5 +1,14 @@
 CERN https://worldwideweb.cern.ch/
 
+https://tech.slashdot.org/story/19/10/14/012233/wired-remembers-the-glory-days-of-flash
+2007 peak of Flash
+
+https://www.htmlwasher.com/history-of-html/
+
+https://blog.npmjs.org/post/188070866415/npm-turns-10
+
+https://blog.risingstack.com/history-of-node-js/
+
 https://dev.to/stereobooster/thats-one-small-step-for-a-developer-one-giant-leap-for-the-web-4b28
 
 http://home.cern/topics/birth-web

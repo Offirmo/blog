@@ -15,3 +15,5 @@ See CONTRIBUTING.md
 
 ## TODO / TOSORT
 https://templates.netlify.com/template/eleventy-base-blog/
+
+https://dev.to/devteam/you-can-now-generate-self-hostable-static-blogs-right-from-your-dev-content-via-stackbit-7a5
