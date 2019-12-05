@@ -1,5 +1,9 @@
 CERN https://worldwideweb.cern.ch/
 
+https://news.slashdot.org/story/19/11/08/162243/firefox-turns-15
+
+MIDI https://entertainment.slashdot.org/story/19/11/10/0113249/do-you-remember-midi-music-files
+
 https://tech.slashdot.org/story/19/10/14/012233/wired-remembers-the-glory-days-of-flash
 2007 peak of Flash
 

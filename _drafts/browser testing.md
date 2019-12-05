@@ -1,4 +1,4 @@
-Universal solution: Browserstack, ask Bradley Cushing for credential (shared note in Dashlane)
+Universal solution: Browserstack
 
 Microsoft offers free VMs for each MS browsers, no license needed https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
