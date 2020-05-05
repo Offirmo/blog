@@ -28,3 +28,7 @@ Please acknowledge reception for email clients are suspicious of link-packed e-m
 Yves (last onboarded before you ;)
 
 
+
+
+https://obedparla.com/code/a-visual-guide-to-react-mental-models/
+https://kentcdodds.com/blog/super-simple-start-to-react

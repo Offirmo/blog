@@ -7,7 +7,7 @@ function poll1(predicate, options) {
 		timeoutMs: 10 * 1000,
 		debugId: 'an unnamed predicate',
 	}, options || {})
-	
+
 	// ...
 }
 
@@ -18,7 +18,7 @@ function poll2(predicate, options = {}) {
 		timeoutMs: 10 * 1000,
 		debugId: 'an unnamed predicate',
 	}, options)
-	
+
 	// ...
 }
 
@@ -30,7 +30,7 @@ function poll3(predicate, options = {}) {
 		debugId: 'an unnamed predicate',
 		...options
 	}
-	
+
 	// ...
 }
 
@@ -38,7 +38,7 @@ function poll3(predicate, options = {}) {
 function poll4(predicate, {periodMs = 100, timeoutMs = 10 * 1000, debugId = 'an unnamed predicate'} = {}) {
 
 	console.log('--- poll4()\ninput: ?\noutput:\n' + prettyjson.render({periodMs, timeoutMs, debugId}))
-	
+
 	// ...
 }
 
@@ -63,6 +63,8 @@ See: https://www.ecma-international.org/ecma-262/8.0/index.html#sec-object.assig
 
 
 
+
+const { debug = false } = options
 
 
 

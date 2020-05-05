@@ -1,4 +1,10 @@
 
+
+how-to-host-a-node-application-for-free.md
+how-to-host-a-solid-wordpress-for-free.md
+how-to-make-a-pinnable-mobile-webapp.md
+
+
 http://p.agnihotry.com/post/the_free_stack_aws/
 
 * GitHub pages!
