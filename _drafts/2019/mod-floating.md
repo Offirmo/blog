@@ -9,7 +9,7 @@ Xmas time has a special atmosphere, and you can share it with your website's vis
 
 *floating.js* creates fully configurable floating elements on your page. It has no dependencies. Add it to your page with whatever method you fancy. Simplest solution:
 ```html
-<script src="https://unpkg.com/floating.js@2.6.3/floating.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/floating.js@2/floating.js"></script>
 ```
 (alternative: `yarn add floating.js` + `require('floating.js)`)
 

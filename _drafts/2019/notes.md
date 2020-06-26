@@ -7,3 +7,4 @@ Fresh news:
 * trending repos (official) https://github.com/trending/javascript
 * http://www.javascripting.com/?sort=new
 
+https://evertpot.com/ecmascript-4-the-missing-version/
