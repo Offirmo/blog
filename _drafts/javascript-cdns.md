@@ -8,6 +8,7 @@ https://www.jsdelivr.com/
 "multi-CDN for open source projects"
 https://cdn.jsdelivr.net/npm/package@version/file
 https://cdn.jsdelivr.net/gh/user/repo@version/file
+https://www.jsdelivr.com/package/npm/prismjs?path=themes
 
 
 https://gitcdn.xyz/
@@ -33,7 +34,9 @@ https://kentcdodds.com/blog/unpkg-an-open-source-cdn-for-npm
 
 
 https://raw.githack.com/
-??
+
+rawgit
+https://www.jsdelivr.com/rawgit
 
 
 https://developers.google.com/speed/libraries

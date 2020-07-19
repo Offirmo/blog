@@ -53,3 +53,5 @@ https://sebastienlorber.com/finally-i-have-a-blog
 
 
 https://www.memoryofeternity.com/building-rpg-years-worth-free-time-6000/
+
+https://vanschneider.com/yeah-but-i-could-have-done-that-too
