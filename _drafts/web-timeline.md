@@ -21,6 +21,8 @@ http://info.cern.ch/
 
 https://stackingthebricks.com/how-blogs-broke-the-web/
 
+https://medium.com/young-coder/mozilla-the-greatest-tech-company-left-behind-9e912098a0e1
+
 jQuery
 
 Chrome browser
