@@ -27,6 +27,10 @@ jQuery
 
 Chrome browser
 
+https://pavellaptev.github.io/web-dark-ages/
+
+https://jeffhuang.com/designed_to_last/
+
 +++ https://carlhendy.com/history-of-search-engines/
 
 AngularJS
