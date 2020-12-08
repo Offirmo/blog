@@ -28,8 +28,8 @@ The #1 free and open source CDN built to make life easier for developers
 https://unpkg.com/
 unpkg.com/:package@:version/:file
 https://kentcdodds.com/blog/unpkg-an-open-source-cdn-for-npm
-    unpkg is a free, best-effort service and cannot provide any uptime or support guarantees.
-    if you rely on it to serve files that are crucial to your business, you should probably pay for a host with well-supported infrastructure and uptime guarantees.
+unpkg is a free, best-effort service and cannot provide any uptime or support guarantees.
+if you rely on it to serve files that are crucial to your business, you should probably pay for a host with well-supported infrastructure and uptime guarantees.
 
 
 

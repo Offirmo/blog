@@ -1,5 +1,7 @@
 CERN https://worldwideweb.cern.ch/
 
+https://tech.slashdot.org/story/20/11/20/1939214/windows-turns-35
+
 https://news.slashdot.org/story/19/11/08/162243/firefox-turns-15
 
 MIDI https://entertainment.slashdot.org/story/19/11/10/0113249/do-you-remember-midi-music-files
@@ -80,3 +82,5 @@ https://v8.dev/blog/10-years
 Old stuff: https://anybrowser.org/
 
 https://www.cameronsworld.net/
+
+https://www.jetbrains.com/lp/javascript-25/
