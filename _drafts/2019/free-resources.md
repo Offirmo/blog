@@ -1,4 +1,5 @@
 
+https://free-for.dev/
 
 how-to-host-a-node-application-for-free.md
 how-to-host-a-solid-wordpress-for-free.md
