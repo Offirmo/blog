@@ -40,7 +40,7 @@ native
 Safari 9	(erreur)	(erreur)	(erreur)	Safari is only distributed bundled with macOS, so Safari 9 requires an old macOS version
 iOS safari (iPad, iPhone)	(question)	(coche)
 Xcode Simulator	(question)
-Opera http://www.opera.com/	(coche)	(coche)	(coche)
+Opera https://www.opera.com/	(coche)	(coche)	(coche)
 Android Chrome	 	 	 	android studio ?
 
 
@@ -55,7 +55,7 @@ Start notepad with admin rights (right-click) then open C:\Windows\System32\driv
 
 10.0.2.2  localhost
 
-reference: http://askubuntu.com/questions/295962/how-to-access-localhost8080-running-on-ubuntu-from-windows-running-into-virtual
+reference: https://askubuntu.com/questions/295962/how-to-access-localhost8080-running-on-ubuntu-from-windows-running-into-virtual
 Launching multiple versions of Firefox using profiles
 
 Firefox might complain if you try to launch different versions at the same time (ESR, Aurora, Nightly, Stable, etc…). One solution is to use a different profile for each launched version. A profile is the closest definition of a user for Firefox. Bookmarks, extensions, settings, etc. are defined in the profile.

@@ -3,7 +3,7 @@ title: "3 modules to check, enforce or prevent running in sudo mode"
 categories: JavaScript
 ---
 
-*Note: this post was originally guest-posted on [daily-javascript.com](http://daily-javascript.com/articles/sindre-sudo/)*
+*Note: this post was originally guest-posted on [daily-javascript.com](https://daily-javascript.com/articles/sindre-sudo/)*
 
 # 3 modules to check, enforce or prevent running in sudo mode
 

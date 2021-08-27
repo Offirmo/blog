@@ -22,7 +22,7 @@ Let's start with a demo of what we can do with unicode: (may render properly or 
 └┬─────────────────────────────
  ├🅰  do A
  └🅱  do B
- 
+
 ╓───╥───────────╖
 ║ ✓ ║ Done      ║
 ╙───╨───────────╜
@@ -38,7 +38,7 @@ Let's start with a demo of what we can do with unicode: (may render properly or 
 ✗
 ```
 
-* Emojis: ([full list here](http://www.unicode.org/emoji/charts/full-emoji-list.html))
+* Emojis: ([full list here](https://www.unicode.org/emoji/charts/full-emoji-list.html))
 
 ```
 🐁🐂🐃🐄🐅🐆🐇🐈🐉🐊🐋🐌🐍🐎🐏🐐🐑🐒🐓🐕🐖🐗🐘🐙🐛🐜🐝🐞🐟🐠🐡
@@ -66,20 +66,20 @@ Let's now dive in some  Unicode intricacies...
 ## Unicode versions
 
 Unicode is a standard, regularly updated.
-Current version is [10.0](http://unicode.org/versions/Unicode10.0.0/), released the 20th June 2017.
-Unicode [11.0](http://emojipedia.org/unicode-11.0/) is due for release in mid-2018.
+Current version is [10.0](https://unicode.org/versions/Unicode10.0.0/), released the 20th June 2017.
+Unicode [11.0](https://emojipedia.org/unicode-11.0/) is due for release in mid-2018.
 
 See also:
-* [www.unicode.org](http://www.unicode.org/)
+* [www.unicode.org](https://www.unicode.org/)
 * [unicode-search.net](https://unicode-search.net/)
 
 ## Emoji versions
 
 Emojis have been integrated into Unicode in 2015. There are also versioned.
-Current version is [5.0](https://emojipedia.org/emoji-5.0/), corresponding to Unicode [10.0](http://unicode.org/versions/Unicode10.0.0/).
+Current version is [5.0](https://emojipedia.org/emoji-5.0/), corresponding to Unicode [10.0](https://unicode.org/versions/Unicode10.0.0/).
 
 See also:
-* [emojipedia.org](http://emojipedia.org/)
+* [emojipedia.org](https://emojipedia.org/)
 
 
 ## Codepoints
@@ -148,7 +148,7 @@ If not supported, the skin tone usually appear as a colored square behind the em
 
 See also:
 * Adding skin tones to emojis: npm/[skin-tone](https://github.com/sindresorhus/skin-tone)
-* 
+*
 
 
 ## variation selectors
@@ -159,7 +159,7 @@ See also:
 
 ## Zero-width joiners
 https://en.wikipedia.org/wiki/Zero-width_non-joiner
-http://unicode.org/emoji/charts/emoji-zwj-sequences.html
+https://unicode.org/emoji/charts/emoji-zwj-sequences.html
 
 ## variant forms
 https://en.wikipedia.org/wiki/Variant_form_(Unicode)
@@ -169,10 +169,10 @@ https://en.wikipedia.org/wiki/Variant_form_(Unicode)
 
 ## Heroes of Unicode
 * [Mathias Bynens](https://github.com/mathiasbynens)
-* Alan Wood http://www.alanwood.net/unicode/index.html
+* Alan Wood https://www.alanwood.net/unicode/index.html
 
 ## JavaScript recipes
- 
+
 ### the unicode problem
 
 ### useful modules
@@ -188,8 +188,8 @@ From [Mathias Bynens](https://github.com/mathiasbynens)
 * https://github.com/mathiasbynens/wtf-8
 Sindre
 * https://github.com/sindresorhus/skin-tone
-* https://github.com/sindresorhus/is-fullwidth-code-point 
-  * see also 
+* https://github.com/sindresorhus/is-fullwidth-code-point
+  * see also
 Other
 * https://github.com/timoxley/wcwidth Port of C's wcwidth() and wcswidth()
 

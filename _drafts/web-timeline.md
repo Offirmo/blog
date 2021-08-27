@@ -17,9 +17,9 @@ https://blog.risingstack.com/history-of-node-js/
 
 https://dev.to/stereobooster/thats-one-small-step-for-a-developer-one-giant-leap-for-the-web-4b28
 
-http://home.cern/topics/birth-web
+https://home.cern/topics/birth-web
 
-http://info.cern.ch/
+https://info.cern.ch/
 
 https://stackingthebricks.com/how-blogs-broke-the-web/
 
@@ -48,7 +48,7 @@ https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/
 
 
 Git 2005
-GitHub 2008 http://tom.preston-werner.com/2011/03/29/ten-lessons-from-githubs-first-year.html
+GitHub 2008 https://tom.preston-werner.com/2011/03/29/ten-lessons-from-githubs-first-year.html
 https://about.gitlab.com/2018/06/03/microsoft-acquires-github/
 
 

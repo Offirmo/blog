@@ -3,17 +3,17 @@ title: "Run JavaScript in shell: The ultimate shebang collection"
 categories: JavaScript
 ---
 
-*Note: this post was originally guest-posted on [daily-javascript.com](http://daily-javascript.com/articles/shebang/)*
+*Note: this post was originally guest-posted on [daily-javascript.com](https://daily-javascript.com/articles/shebang/)*
 
 *Note: Updated on 2017/12/21 with latest babel usage*
 
 
 Today, let's try the tip format. Don't worry, we'll introduce some nice modules along the way.
- 
+
 Thanks to node, JavaScript conquered new realms, including the terminal.
 To integrate with other tools, or just for convenience, you may want to run your JS code as a shell script.
 This is done with a [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix)), of course.
-[Sam Mikes](http://sambal.org/2014/02/passing-options-node-shebang-line/) cleverly devised a shebang that allows running a node script as a shell script:
+[Sam Mikes](https://sambal.org/2014/02/passing-options-node-shebang-line/) cleverly devised a shebang that allows running a node script as a shell script:
 
 First some initialisations:
 
@@ -28,7 +28,7 @@ Then in `index.js`: **(note the 2-lines shebang at start)**
 
 ```javascript
 #!/bin/sh
-':' //# http://sambal.org/?p=1014 ; exec /usr/bin/env node "$0" "$@"
+':' //# https://sambal.org/?p=1014 ; exec /usr/bin/env node "$0" "$@"
 'use strict';
 
 // let's visually inspect parameters
@@ -39,7 +39,7 @@ const { hello } = require('hello-world-emo')
 process.argv.slice(2).forEach(val => hello(val)) // say hello to everyone
 ```
 
-In case you wondered, node will detect and skip the shebang, so this is syntactically valid ([more info](http://sambal.org/2014/02/passing-options-node-shebang-line/)). Then from your terminal:
+In case you wondered, node will detect and skip the shebang, so this is syntactically valid ([more info](https://sambal.org/2014/02/passing-options-node-shebang-line/)). Then from your terminal:
 
 ```
 $ ./index.js Joe Jack
@@ -66,7 +66,7 @@ The shebang and the code becomes:
 
 ```javascript
 #!/bin/sh
-':' //# http://sambal.org/?p=1014 ; exec `dirname $0`/node_modules/.bin/babel-node "$0" "$@"
+':' //# https://sambal.org/?p=1014 ; exec `dirname $0`/node_modules/.bin/babel-node "$0" "$@"
 'use strict';
 
 import { hello } from 'hello-world-emo' //< note the change to ES6 modules
@@ -84,7 +84,7 @@ Hello, Jack :-(
 
 Direct execution, not even needing a build step! Please note that the Babel team [doesn't endorse](https://www.npmjs.com/package/babel-cli) using this utility in production, but YMMV.
 
-Last, how about doing it for [typescript](https://www.typescriptlang.org/) ? We'll need [typescript](https://www.npmjs.com/package/typescript) of course (targeting typescript v2 here, which is vastly superior to v1 and due to be released anytime soon), [node.js type definitions](https://www.npmjs.com/package/@types/node) and the [`ts-node`](https://www.npmjs.com/package/ts-node) npm module: 
+Last, how about doing it for [typescript](https://www.typescriptlang.org/) ? We'll need [typescript](https://www.npmjs.com/package/typescript) of course (targeting typescript v2 here, which is vastly superior to v1 and due to be released anytime soon), [node.js type definitions](https://www.npmjs.com/package/@types/node) and the [`ts-node`](https://www.npmjs.com/package/ts-node) npm module:
 
 ```
 npm i -S  typescript@2  @types/node  ts-node
@@ -95,7 +95,7 @@ The shebang and the code becomes:
 
 ```typescript
 #!/bin/sh
-':' //# http://sambal.org/?p=1014 ; exec `dirname $0`/node_modules/.bin/ts-node "$0" "$@"
+':' //# https://sambal.org/?p=1014 ; exec `dirname $0`/node_modules/.bin/ts-node "$0" "$@"
 'use strict';
 
 /// <reference path="node_modules/@types/node/index.d.ts" />

@@ -1,9 +1,9 @@
 
-http://nipstr.com/#random
+https://nipstr.com/#random
 
 https://github.com/ckknight/random-js
 
-http://chancejs.com/
+https://chancejs.com/
 https://github.com/davidbau/seedrandom
 
 ```sh

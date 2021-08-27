@@ -20,8 +20,8 @@ o	(my personal notes https://github.com/Offirmo-team/wiki/wiki/react)
 12.	(my personal notes https://github.com/Offirmo-team/wiki/wiki/Redux)
 
 general i18n principles (not our lib but informative)
-•	Basic Internationalization Principles http://formatjs.io/guides/basic-i18n/
-•	ICU Message Syntax http://formatjs.io/guides/message-syntax/
+•	Basic Internationalization Principles https://formatjs.io/guides/basic-i18n/
+•	ICU Message Syntax https://formatjs.io/guides/message-syntax/
 
 Please acknowledge reception for email clients are suspicious of link-packed e-mails 
 

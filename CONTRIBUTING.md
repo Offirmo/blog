@@ -8,7 +8,7 @@
 ## Launch
 1. `bundle exec jekyll serve --drafts --unpublished --incremental --watch --open-url`
   * if port change is needed, `--port 8000`
-2. access http://127.0.0.1:4000/
+2. access https://127.0.0.1:4000/
 
 
 ## Conception

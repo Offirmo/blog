@@ -44,7 +44,7 @@ https://developers.google.com/speed/libraries
 https://code.jquery.com/
 
 
-http://www.getlibs.com/  dead
+https://www.getlibs.com/  dead
 https://www.activewidgets.com/datagrid.27791/unpkg-com-getlibs-simple-way.html
 
 https://rawgit.com/ sunset
