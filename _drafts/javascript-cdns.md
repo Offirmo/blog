@@ -2,7 +2,7 @@
 comparison  https://w3techs.com/technologies/overview/content_delivery
 
 
-
+## jsDelivr
 https://www.jsdelivr.com/
 "Built for production"
 "multi-CDN for open source projects"
@@ -11,6 +11,7 @@ https://cdn.jsdelivr.net/gh/user/repo@version/file
 https://www.jsdelivr.com/package/npm/prismjs?path=themes
 
 
+## GitCDN
 https://gitcdn.xyz/
 The main difference, is our focus on providing the latest commit of a given GitHub file
 I'm (not) telling you to go and use it in production
@@ -19,12 +20,14 @@ https://gitcdn.xyz/user/repo/master/file
 GitCDN serves raw files directly from GitHub with proper Content-Type headers and a super fast CDN!
 
 
+## cdnjs
 https://cdnjs.com/
 https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js
 The #1 free and open source CDN built to make life easier for developers
 -> doesn't support semver :-/
 
 
+## UNPKG
 https://unpkg.com/
 unpkg.com/:package@:version/:file
 https://kentcdodds.com/blog/unpkg-an-open-source-cdn-for-npm
@@ -32,10 +35,14 @@ unpkg is a free, best-effort service and cannot provide any uptime or support gu
 if you rely on it to serve files that are crucial to your business, you should probably pay for a host with well-supported infrastructure and uptime guarantees.
 
 
+##
+raw.githubusercontent.com
+
+
 
 https://raw.githack.com/
 
-rawgit
+rawgit = EOlife
 https://www.jsdelivr.com/rawgit
 
 
