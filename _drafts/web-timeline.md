@@ -47,6 +47,8 @@ https://css-tricks.com/look-back-history-css/
 https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/
 
 
+https://developer.chrome.com/100/
+
 Git 2005
 GitHub 2008 https://tom.preston-werner.com/2011/03/29/ten-lessons-from-githubs-first-year.html
 https://about.gitlab.com/2018/06/03/microsoft-acquires-github/
