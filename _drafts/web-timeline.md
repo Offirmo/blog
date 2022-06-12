@@ -1,5 +1,7 @@
 CERN https://worldwideweb.cern.ch/
 
+https://css-tricks.com/category/history/
+
 https://tech.slashdot.org/story/20/11/20/1939214/windows-turns-35
 
 https://news.slashdot.org/story/19/11/08/162243/firefox-turns-15
@@ -88,3 +90,4 @@ Old stuff: https://anybrowser.org/
 https://www.cameronsworld.net/
 
 https://www.jetbrains.com/lp/javascript-25/
+https://css-tricks.com/why-are-hyperlinks-blue/
