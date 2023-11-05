@@ -1,4 +1,4 @@
-
+XXX TypeScript!!!
 
 ```javascript
 function poll1(predicate, options) {
@@ -72,4 +72,3 @@ options = {
 debugId: `window.${varName}`,
 ...options
 }
-
