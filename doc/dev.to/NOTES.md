@@ -1,7 +1,22 @@
 
 
 
+## Quick links
+
+https://dev.to/dashboard
+
+https://github.com/Offirmo/my.dev.to/
+
+
+
 ## Content
+
+Best practices
+1. Creating a Series https://dev.to/devteam/best-practices-for-writing-on-dev-creating-a-series-2bgj
+1. Formatting
+1. Tone of Voice
+1. Listicles
+1. Topics
 
 
 ## Format

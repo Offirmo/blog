@@ -1,0 +1,27 @@
+<h1>Hello, World!</h1>
+
+<p>
+	What I'd really like to share is:
+	<strong>We're all sisters and brothers and should help each other grow!</strong>
+</p>
+<small>(date & time)</small>
+
+<style>
+	html {
+		font-family: sans-serif;
+		background-color: #f6f0d6;
+	}
+</style>
+
+<script>
+	console.log('Hello, JS!');
+
+	const dateTimeElement = document.getElementsByTagName('small')[0];
+
+	function updateTime() {
+		dateTimeElement.innerText = new Date().toLocaleString();
+	}
+
+	updateTime();
+	setInterval(updateTime, 1000);
+</script>

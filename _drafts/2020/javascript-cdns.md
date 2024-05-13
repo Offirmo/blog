@@ -2,6 +2,7 @@
 comparison  https://w3techs.com/technologies/overview/content_delivery
 
 
+
 ## jsDelivr
 https://www.jsdelivr.com/
 "Built for production"
@@ -9,15 +10,6 @@ https://www.jsdelivr.com/
 https://cdn.jsdelivr.net/npm/package@version/file
 https://cdn.jsdelivr.net/gh/user/repo@version/file
 https://www.jsdelivr.com/package/npm/prismjs?path=themes
-
-
-## GitCDN
-https://gitcdn.xyz/
-The main difference, is our focus on providing the latest commit of a given GitHub file
-I'm (not) telling you to go and use it in production
-As this service is free, I make no guarantees about Up-time nor do I have anything resembling an SLA.
-https://gitcdn.xyz/user/repo/master/file
-GitCDN serves raw files directly from GitHub with proper Content-Type headers and a super fast CDN!
 
 
 ## cdnjs
@@ -35,8 +27,41 @@ unpkg is a free, best-effort service and cannot provide any uptime or support gu
 if you rely on it to serve files that are crucial to your business, you should probably pay for a host with well-supported infrastructure and uptime guarantees.
 
 
-##
+## GitHub itself
+
 raw.githubusercontent.com
+
+https://raw.githubusercontent.com/gorhill/uBlock/master/assets/assets.json
+
+
+
+https://statically.io/
+
+
+
+## Legacy
+
+
+### GitCDN
+
+LEGACY https://github.com/schme16/gitcdn.xyz/issues
+
+https://gitcdn.xyz/
+The main difference, is our focus on providing the latest commit of a given GitHub file
+I'm (not) telling you to go and use it in production
+As this service is free, I make no guarantees about Up-time nor do I have anything resembling an SLA.
+https://gitcdn.xyz/user/repo/master/file
+GitCDN serves raw files directly from GitHub with proper Content-Type headers and a super fast CDN!
+
+
+
+
+https://rawgit.com/ = LEGACY
+
+
+
+
+## TOSORT
 
 
 
@@ -54,7 +79,6 @@ https://code.jquery.com/
 https://www.getlibs.com/  dead
 https://www.activewidgets.com/datagrid.27791/unpkg-com-getlibs-simple-way.html
 
-https://rawgit.com/ sunset
 
 
 snippet: cdn with fallback
