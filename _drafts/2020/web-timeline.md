@@ -66,7 +66,6 @@ Angular was created in 2010
 React was created in 2013
 JSON format was already more popular than XML
 
-
 But the best change was Grunt/Gulp → . Webpack
 
 https://apple.slashdot.org/story/18/07/05/1920207/apples-app-store-celebrates-10th-anniversary
