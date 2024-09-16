@@ -18,6 +18,7 @@ allow ssh, http, https
 16Gb gp3
 
 chmod 400 *.pem
+ssh -i "OpenVPN-2024-06-19.pem" ubuntu@ec2-<…>.ap-southeast-2.compute.amazonaws.com
 sudo apt update
 sudo apt upgrade --yes
 sudo reboot
@@ -48,6 +49,7 @@ sudo bash openvpn-install.sh
 Welcome to this OpenVPN road warrior installer!
 
 This server is behind NAT. What is the public IPv4 address or hostname?
+Public IPv4 address / hostname [*************]: ec2-<…>.ap-southeast-2.compute.amazonaws.com
 
 Which protocol should OpenVPN use?
 1) UDP (recommended)
@@ -131,10 +133,15 @@ Your newly created PKI dir is:
 
 Using Easy-RSA configuration:
 * undefined
+  ...+++
+*
 Notice
 ------
 CA creation complete. Your new CA certificate is at:
 * /etc/openvpn/server/easy-rsa/pki/ca.crt
+
+...+++
+-----
 
 Notice
 ------
@@ -160,6 +167,12 @@ Certificate created at:
 * /etc/openvpn/server/easy-rsa/pki/issued/server.crt
 
 
+Notice
+------
+Inline file created:
+* /etc/openvpn/server/easy-rsa/pki/inline/server.inline
+
+...+++
 -----
 
 Notice
