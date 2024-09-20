@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+## MECE
+
+### Concepts
+
+- contrast, contrast ratio
+- readability
+- "color scheme" light / dark
+- color scheme preference light/dark/auto/no preference
+- theme default, high contrast, etc.
+- cascade: OS, browser, page, inline
+- we may select the scheme at the OS level and then a theme, ex solarized
+- vision impairment
+- contrast
+- media query `prefers-color-scheme` https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
+- inheritance
+- CSS property `color-scheme` https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme (formerly Safari only https://blog.jim-nielsen.com/2020/color-scheme-property/)
+- meta tag `color-scheme` https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/color-scheme
+- CSS color function `light-dark()` baseline✅ https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/light-dark
+	- BUT do not use if want JS?
+- color in design = emotions
+- day/night mode
+- system colors
+- form controls (inputs), scrollbars
+- auto dark theme https://developer.chrome.com/blog/auto-dark-theme/
+  - #per-element-opt-out
+- webextensions
+  - double dark !!
+  - intrusive
+- user's cloud setting
+- The `Sec-CH-Prefers-Color-Scheme` user preference media feature client hint request header
+
+
+### "start with why"
+
+- dark mode is not vanity
+- 19%
+- light = enterprise
+
+TODO https://blog.jim-nielsen.com/2020/color-scheme-property/
+https://www.sarasoueidan.com/blog/prefers-color-scheme-browser-vs-os/
+https://sumnerevans.com/posts/technology/respecting-theme-preferences/
+https://blog.jim-nielsen.com/2022/browser-level-color-scheme-preference/
+
+
+From macOs Sonoma
+https://support.apple.com/en-au/guide/mac-help/mchl52e1c2d2/mac "Use a light or dark appearance on your Mac"
+https://support.apple.com/en-au/guide/mac-help/mchlp1225/15.0/mac/15.0 "Change Appearance settings on Mac"
+> Appearance
+> - Light provides a light appearance that doesn’t change.
+>
+> - Dark provides a darkened appearance so the content you’re working on stands out while windows and controls seem to recede into the background. It’s effective for viewing documents, presentations, photos, movies, web pages and more.
+>
+> - Auto switches the appearance from light to dark based on the Night Shift schedule you set. See Change Night Shift settings.
+> Accent colour
+    Choose the colour to use for buttons, pop-up menus, and other UI controls.
+    Highlight colour
+    Choose the colour to use for highlighting selected text.
+
+https
+OS vs browser level!!
+page level!
+
+
+https://en.wikipedia.org/wiki/Light-on-dark_color_scheme
+https://www.forbes.com/uk/advisor/mobile-phones/what-is-dark-mode-and-should-you-be-using-it/
+
+
+Official doc:
+- The prefers-color-scheme CSS media feature https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
+
+
+Inline theme switching
+- beware of CC variables!
+
+interesting browser compatibility
+- FF
+-
+
+
+TODO suggest API
+
+UI issues
+
+
+TODO test on all browsers
+
+OS support
+
+TODO review browser settings
+- Safari: no setting
+
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/browserSettings/overrideContentColorScheme
+
+
+https://html-first.com/
