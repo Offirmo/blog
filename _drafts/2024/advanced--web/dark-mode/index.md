@@ -1,3 +1,9 @@
+---
+published: false
+title: ''
+description: ''
+tags: html, css, dark
+---
 
 
 
@@ -99,5 +105,12 @@ TODO review browser settings
 
 https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/browserSettings/overrideContentColorScheme
 
+
+
+Dark mode has become increasingly popular after its introduction by Apple and Google on iOS and Android. Before its introduction, users would simply decrease the brightness on their phone to continue using it at night.
+
+However, there is no evidence to suggest that the introduction of dark mode has led to an increase in smartphone usage. It is simply a convenient way to consume content at night. Popular entertainment apps such as TikTok and Instagram (Reels) do not even require a dark mode to keep users engaged as they display fullscreen content that makes the interface less prominent. This highlights that if the content is engaging, people will spend time on the website or app regardless of the presence of a dark mode.
+
+As an additional note, we have also added a dark mode to Hallofshame.design for your convenience when reading it at night.
 
 https://html-first.com/

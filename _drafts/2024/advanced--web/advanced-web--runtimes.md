@@ -52,3 +52,14 @@ OSes = system fonts, inputs...
 
 
 profiles
+
+
+https://developer.mozilla.org/en-US/docs/Web/API/Window/crossOriginIsolated
+
+
+custom pined apps https://www.bzgapps.com/coherence  https://www.bzgapps.com/unite
+installable apps https://neutralino.js.org/
+
+
+bots
+playwright & similar

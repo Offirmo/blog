@@ -28,3 +28,11 @@ concepts
 
 
 https://sebastianlaube.de/en/blog/font-size-limbo
+
+
+
+Need to start with a fixed "base" web font then calibrate the alternate fonts to it
+
+- content-heavy pages can go with system
+- UI heavy pages need more precision
+- i18n when using a custom font
