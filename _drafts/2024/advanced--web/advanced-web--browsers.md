@@ -16,7 +16,7 @@ FF nightly
 FF dev https://www.mozilla.org/en-US/firefox/developer/
 
 
-Polypane
+Polypane https://css-tricks.com/clever-polypane-debugging-features-im-loving/
 
 Arc https://kibty.town/blog/arc/
 
@@ -25,3 +25,8 @@ https://sindresorhus.com/velja
 
 
 https://arc.net/
+
+
+https://www.lambdatest.com/lt-browser
+
+https://vivaldi.com/blog/vivaldi-on-desktop-7-0/
