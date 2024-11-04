@@ -30,3 +30,6 @@ https://arc.net/
 https://www.lambdatest.com/lt-browser
 
 https://vivaldi.com/blog/vivaldi-on-desktop-7-0/
+
+
+https://support.atlassian.com/atlassian-account/docs/supported-browsers-for-atlassian-cloud-products/
