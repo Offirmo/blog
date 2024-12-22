@@ -103,6 +103,8 @@ TODO review browser settings
 - Safari: no setting
 
 
+view transition when changing theme (is it hard?)
+
 
 
 Dark mode has become increasingly popular after its introduction by Apple and Google on iOS and Android. Before its introduction, users would simply decrease the brightness on their phone to continue using it at night.
@@ -120,16 +122,19 @@ https://blog.jim-nielsen.com/2020/color-scheme-property/
 https://blog.jim-nielsen.com/2021/css-system-colors/
 https://blog.jim-nielsen.com/2022/avoiding-flash-of-inaccurate-theme-color/
 https://blog.jim-nielsen.com/2022/browser-level-color-scheme-preference/
+https://brandur.org/fragments/dark-mode-notes
 https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/
 https://css-tricks.com/come-to-the-light-dark-side/
-https://css-tricks.com/come-to-the-light-dark-side/
+https://dev.to/colinaut/dark-mode-three-way-switch-40e
+https://developer.apple.com/design/human-interface-guidelines/color
+https://developer.apple.com/design/human-interface-guidelines/dark-mode
 https://developer.apple.com/videos/play/wwdc2019/511/
 https://developer.chrome.com/blog/auto-dark-theme/
+https://developer.chrome.com/docs/devtools/rendering/emulate-css#emulate_css_media_feature_prefers-color-scheme
 https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/browserSettings/overrideContentColorScheme
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG/Perceivable/Color_contrast
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLMetaElement/scheme
 https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
-https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme
 https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme
 https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color-contrast
 https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/light-dark
@@ -137,7 +142,16 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/theme-color
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Sec-CH-Prefers-Color-Scheme
 https://developer.mozilla.org/en-US/docs/Web/Manifest/theme_color
 https://github.com/mdn/yari/issues/5378
+https://medium.com/@tundehercules/designing-effective-dark-mode-interfaces-17f38ecea2e9
+https://mui.com/material-ui/customization/dark-mode/
 https://stackoverflow.com/questions/56393880/how-do-i-detect-dark-mode-using-javascript
 https://sumnerevans.com/posts/technology/respecting-theme-preferences/
 https://support.mozilla.org/en-US/kb/enable-light-or-dark-mode-mdn
+https://tpiros.dev/blog/three-state-light-dark-theme-switch/
+https://uxplanet.org/dark-mode-ui-design-best-practices-8d3a00a83924
+https://www.brycewray.com/posts/2024/01/its-tri-state-switch-time/
+https://www.netguru.com/blog/tips-dark-mode-ui
+https://www.nngroup.com/articles/dark-mode-users-issues/
+https://www.reddit.com/r/ios/comments/1fgmjpf/do_the_icons_in_dark_mode_depend_on_apple_or_the/?rdt=37666
 https://www.sarasoueidan.com/blog/prefers-color-scheme-browser-vs-os/
+https://www.threads.net/@garrettmurray/post/DACLi3cS9yu

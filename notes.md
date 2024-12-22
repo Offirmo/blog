@@ -22,3 +22,5 @@ Site:
 
 https://ask.slashdot.org/story/17/03/11/197257/ask-slashdot-how-do-you-make-novice-programmers-more-professional
 https://developers.slashdot.org/story/17/03/13/1328227/commentary-on-how-to-make-novice-programmers-more-professional
+
+TODO https://rmoff.net/2023/07/19/blog-writing-for-developers/
