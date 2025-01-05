@@ -43,6 +43,8 @@ https://webcontainers.io/tutorial/1-build-your-first-webcontainer-app
 browsing context
 storage partition
 https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API
+https://www.google.com/search?client=firefox-b-d&q=auxiliary+browsing+context.
+https://github.com/w3c/webdriver/issues/1079  What's a specific browsing context? #1079
 
 
 webviews
@@ -63,3 +65,15 @@ installable apps https://neutralino.js.org/
 
 bots
 playwright & similar
+
+
+https://devdocs.io/dom/window/self
+non-window contexts ex. Web Workers
+vs. window context, "browsing" context
+
+
+WindowProxy vs Window
+https://stackoverflow.com/questions/16092835/windowproxy-and-window-objects
+https://developer.mozilla.org/en-US/docs/Glossary/WindowProxy
+
+browsing context https://html.spec.whatwg.org/multipage/document-sequences.html#browsing-context
