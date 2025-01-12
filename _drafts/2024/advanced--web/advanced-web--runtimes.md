@@ -77,3 +77,5 @@ https://stackoverflow.com/questions/16092835/windowproxy-and-window-objects
 https://developer.mozilla.org/en-US/docs/Glossary/WindowProxy
 
 browsing context https://html.spec.whatwg.org/multipage/document-sequences.html#browsing-context
+
+execution contexts https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Clear-Site-Data#executioncontexts
