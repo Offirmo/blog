@@ -26,3 +26,7 @@ Work in small PRs and front-load the changes that affect other teams’ code. Th
 * Don’t expect to be able to test every case - instead, rely on monitoring
 * Remove code any chance you get, but be very careful about it
 * Make it as easy as possible for domain experts to catch your mistakes
+
+
+
+added comment to cryptic funcs?

@@ -27,7 +27,6 @@ overloads https://github.com/microsoft/TypeScript/wiki/FAQ#why-am-i-getting-supp
 
 DO NOT COMMIT https://github.com/Canva/canva/pull/604601#discussion_r1898131033
 
-
 don't typically see Partial used on an expanded type this way -- it's more idiomatic to encode in the fields, i.e.
 
 id?: number, etc.
