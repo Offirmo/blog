@@ -40,6 +40,9 @@ https://github.com/score-spec/spec
 https://webcontainers.io/tutorial/1-build-your-first-webcontainer-app
 
 
+https://humanwhocodes.com/blog/2024/03/javascript-engines-runtimes/
+
+
 browsing context
 storage partition
 https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API
@@ -48,6 +51,9 @@ https://github.com/w3c/webdriver/issues/1079  What's a specific browsing context
 
 
 webviews
+
+
+Realm https://github.com/tc39/proposal-shadowrealm/blob/main/explainer.md https://github.com/tc39/proposal-shadowrealm
 
 
 OSes = system fonts, inputs...

@@ -19,3 +19,6 @@ Incident training
 
 Reporting problems
 
+refusing to code / pushing back
+
+stuff suprinsifgly costly to implement
