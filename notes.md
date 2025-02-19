@@ -30,3 +30,8 @@ TODO https://simonwillison.net/2022/Nov/6/what-to-blog-about/
 Conferences
 - https://fosdem.org/
 -
+
+
+Good advice:
+* https://www.instagram.com/p/DFqUtiaxm2l/
+* don't build castles in others people's kingdoms = assume the sharing platform will disappear / ban you at any moment https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/

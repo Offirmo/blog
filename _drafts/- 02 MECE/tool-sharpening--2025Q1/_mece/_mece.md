@@ -11,3 +11,26 @@ add a reducer for getting the current page of a book
 ## Physical
 
 ### micro keyboard
+
+
+
+
+
+
+- Warp
+- Webstorm
+- Velja
+- MeetingBar
+
+
+
+
+Warp
+
+WebStorm FREE
+
+Velja / Chrome dev
+
+Fira Code + condensed
+
+Solarized
