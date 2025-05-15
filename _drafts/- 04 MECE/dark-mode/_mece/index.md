@@ -1,17 +1,3 @@
----
-published: false
-title: ''
-description: ''
-tags: html, css, dark
----
-
-
-
-
-
-
-
-## MECE
 
 ### Concepts
 
@@ -27,7 +13,7 @@ tags: html, css, dark
 - media query `prefers-color-scheme` https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
 - inheritance
 - CSS property `color-scheme` https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme (formerly Safari only https://blog.jim-nielsen.com/2020/color-scheme-property/)
-- meta tag `color-scheme` https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/color-scheme
+- meta tag `color-scheme` https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name#color-scheme
 - CSS color function `light-dark()` baseline✅ https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/light-dark
 	- BUT do not use if want JS?
 - color in design = emotions
@@ -35,10 +21,10 @@ tags: html, css, dark
 - system colors
 - form controls (inputs), scrollbars
 - auto dark theme https://developer.chrome.com/blog/auto-dark-theme/
-  - #per-element-opt-out
+	- #per-element-opt-out
 - webextensions
-  - double dark !!
-  - intrusive
+	- double dark !!
+	- intrusive
 - user's cloud setting
 - The `Sec-CH-Prefers-Color-Scheme` user preference media feature client hint request header
 
@@ -64,10 +50,10 @@ https://support.apple.com/en-au/guide/mac-help/mchlp1225/15.0/mac/15.0 "Change A
 > - Dark provides a darkened appearance so the content you’re working on stands out while windows and controls seem to recede into the background. It’s effective for viewing documents, presentations, photos, movies, web pages and more.
 >
 > - Auto switches the appearance from light to dark based on the Night Shift schedule you set. See Change Night Shift settings.
-> Accent colour
-    Choose the colour to use for buttons, pop-up menus, and other UI controls.
-    Highlight colour
-    Choose the colour to use for highlighting selected text.
+	 > Accent colour
+	 Choose the colour to use for buttons, pop-up menus, and other UI controls.
+	 Highlight colour
+	 Choose the colour to use for highlighting selected text.
 
 https
 OS vs browser level!!
