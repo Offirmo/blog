@@ -1,0 +1,20 @@
+
+- need clear concepts but not too specific
+- public API management
+- need FE and BE
+  - ways to share code or features?
+- iframe isolation
+- runtime
+  - consider it compromised
+  - 3p access to the runtime: "skeleton" npm packages? direct globals? (ex. Google Chrome AI)
+  - consider versioning and upgrade path
+- templates
+  - leverage "creator" package https://classic.yarnpkg.com/lang/en/docs/cli/create/
+  - try to "aggregate" build tools to avoid the "1000 meta files for 1 app file" + challenging upgrade path
+- Config as code from day 1 = so simpler, allow migrations
+- i18n, potentially automatically extracted from the code?
+- consider REVIEW process
+  - 1 sanity check
+  - 2 quality / UX check
+- dev portal to manage one's apps
+- docs
