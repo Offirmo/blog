@@ -35,3 +35,5 @@ Conferences
 Good advice:
 * https://www.instagram.com/p/DFqUtiaxm2l/
 * don't build castles in others people's kingdoms = assume the sharing platform will disappear / ban you at any moment https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/
+
+https://refactoringenglish.com/chapters/write-blog-posts-developers-read/
